@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/website-react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/website-react/static/js/main.455c0a3f.chunk.js",
+    "main.js.map": "/website-react/static/js/main.455c0a3f.chunk.js.map",
+    "runtime-main.js": "/website-react/static/js/runtime-main.f8845bb3.js",
+    "runtime-main.js.map": "/website-react/static/js/runtime-main.f8845bb3.js.map",
+    "static/js/2.62622b70.chunk.js": "/website-react/static/js/2.62622b70.chunk.js",
+    "static/js/2.62622b70.chunk.js.map": "/website-react/static/js/2.62622b70.chunk.js.map",
+    "index.html": "/website-react/index.html",
+    "precache-manifest.c1e751d43b467d3ea54cb7f632cb651d.js": "/website-react/precache-manifest.c1e751d43b467d3ea54cb7f632cb651d.js",
+    "service-worker.js": "/website-react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/website-react/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/website-react/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8845bb3.js",
+    "static/js/2.62622b70.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.455c0a3f.chunk.js"
+  ]
+}
